@@ -1,5 +1,9 @@
-## Welcome to GitHub Pages
+使用<a helf="shihongyu.top">element-ui</a> 对页面进行重构
+整个项目一共14个页面（包括通用组件），主要使用了vue2.0+vue-router+vuex，主要实现了小说排行榜，小说分类，小说详情，小说阅读，搜索页面.达到了可用来看小说的基本需求。
 
+项目中的API均来自追书神器，纯属共享学习之用，有任何疑问或建议可提issue。
+
+###
 You can use the [editor on GitHub](https://github.com/shihongyugg/zhuishushenqi-demo/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
